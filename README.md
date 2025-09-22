@@ -6,8 +6,8 @@ This repo contains analysis done on practice effects.
 ## Quick Start
 
 ```bash
-git clone <your-repo>
-cd <your-repo>
+git clone https://github.com/Designing-Collective-Systems/practice-effects.git
+cd practice-effects
 python -m venv .venv
 source .venv/bin/activate     # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
